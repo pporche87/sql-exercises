@@ -78,3 +78,69 @@ Stretch: **13:** Find the name and grade of all students who are liked by more t
 
 ## Useful Resources
 - http://stackoverflow.com/questions/448023/what-is-the-difference-between-left-right-outer-and-inner-joins
+
+## Specifications
+
+#### Day 1: SQL Basics & Advanced SQL Queries
+
+- [x] Solution SQL for the project from the SQL Basics course (“Design a store database”) is added to a file in your repo named `khan-academy/sql_basics.sql`
+- [x] Solution SQL for the project from the Advanced SQL queries course (“Data dig”) is added to a file in your repo named `khan-academy/advanced_sql_queries.sql`
+
+#### Day 2: Relational Queries
+
+- [x] Solution SQL for the project from the Relational Queries course (“Famous people”) is added to a file in your repo named `khan-academy/relational_queries.sql`
+- [ ] Solution SQL for the project from the Modifying databases with SQL course (“App impersonator”) is added to a file in your repo named `khan-academy/modifying_databases.sql`
+
+#### Day 3: Install Postgres and Complete Tutorials with psql
+
+* complete the tutorial for `createdb`
+* complete the tutorial for selecting the database
+* complete the tutorial for dropping the database
+* complete the tutorial for `create table`
+* complete the tutorial for `drop table`
+* complete the tutorial for `schema`
+* complete the tutorial for `insert`
+* complete the tutorial for `select`
+* complete the tutorial for expressions
+* complete the tutorial for `where` clause
+* complete the tutorial for `and` and `or` operators
+* complete the tutorial for update queries
+* complete the tutorial for delete queries
+* complete the tutorial for the `like` clause
+* complete the tutorial for the `limit` clause
+* complete the tutorial for the `order by` clause
+* complete the tutorial for the `group by` clause
+
+#### Day 4: Mini Project and Exercises
+
+- [ ] `sql/01-create-table-student.sql`
+- [ ] `sql/02-create-table-friend.sql`
+- [ ] `sql/03-create-table-like.sql`
+- [ ] `sql/04-load-table-learner.sql`
+- [ ] `sql/05-load-table-friend.sql`
+- [ ] `sql/06-load-table-like.sql`
+- [ ] `sql/07-query-friends-gabriel.sql`
+- [ ] `sql/08-query-likes-grade-two-or-more.sql`
+- [ ] `sql/09-mutual-likes.sql`
+- [ ] `sql/10-not-liked.sql`
+- [ ] `sql/11-liked-but-does-not-like.sql`
+
+#### Day 5: Exercises on SQL Bolt
+
+* complete the SQL Bolt Tutorial
+
+#### General
+
+- [x] All major features are added via pull requests with a clear description and concise commit messages.
+- [x] SQL files are well formatted and readable.
+- [x] All the SQL keywords are capitalized.
+
+#### Stretch
+
+* Complete the Codeacademy course on SQL
+* Complete the SQL Zoo quizzes
+
+Exercises 12 and 13 in the sql-exercises repo are complete and written to the appropriate file
+
+- [ ] `sql/12-find-friends-in-common.sql`
+- [ ] `sql/13-popular-students.sql`
