@@ -89,7 +89,7 @@ Stretch: **13:** Find the name and grade of all students who are liked by more t
 #### Day 2: Relational Queries
 
 - [x] Solution SQL for the project from the Relational Queries course (“Famous people”) is added to a file in your repo named `khan-academy/relational_queries.sql`
-- [ ] Solution SQL for the project from the Modifying databases with SQL course (“App impersonator”) is added to a file in your repo named `khan-academy/modifying_databases.sql`
+- [x] Solution SQL for the project from the Modifying databases with SQL course (“App impersonator”) is added to a file in your repo named `khan-academy/modifying_databases.sql`
 
 #### Day 3: Install Postgres and Complete Tutorials with psql
 
@@ -113,17 +113,17 @@ Stretch: **13:** Find the name and grade of all students who are liked by more t
 
 #### Day 4: Mini Project and Exercises
 
-- [ ] `sql/01-create-table-student.sql`
-- [ ] `sql/02-create-table-friend.sql`
-- [ ] `sql/03-create-table-like.sql`
-- [ ] `sql/04-load-table-learner.sql`
-- [ ] `sql/05-load-table-friend.sql`
-- [ ] `sql/06-load-table-like.sql`
-- [ ] `sql/07-query-friends-gabriel.sql`
-- [ ] `sql/08-query-likes-grade-two-or-more.sql`
-- [ ] `sql/09-mutual-likes.sql`
-- [ ] `sql/10-not-liked.sql`
-- [ ] `sql/11-liked-but-does-not-like.sql`
+- [x] `sql/01-create-table-student.sql`
+- [x] `sql/02-create-table-friend.sql`
+- [x] `sql/03-create-table-like.sql`
+- [x] `sql/04-load-table-learner.sql`
+- [x] `sql/05-load-table-friend.sql`
+- [x] `sql/06-load-table-like.sql`
+- [x] `sql/07-query-friends-gabriel.sql`
+- [x] `sql/08-query-likes-grade-two-or-more.sql`
+- [x] `sql/09-mutual-likes.sql`
+- [x] `sql/10-not-liked.sql`
+- [x] `sql/11-liked-but-does-not-like.sql`
 
 #### Day 5: Exercises on SQL Bolt
 
