@@ -36,4 +36,4 @@ INSERT INTO shows (actor, show1, show2) VALUES ("Aisha Taylor", "Archer", "Crimi
 
 INSERT INTO shows (actor, show1, show2) VALUES ("Sarah Silverman", "Bob's Burgers", "Louie");
 
-SELECT actors.actor, shows.show1, shows.show2 FROM actors JOIN shows ON actors.actor = shows.actor
+SELECT actors.actor, shows.show1, shows.show2 FROM actors JOIN shows ON actors.actor = shows.actor;
